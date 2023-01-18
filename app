@@ -1,6 +1,6 @@
 This is source code of a java based application
 
-added in main branch
+added in feature branch
 
 This line is added in develop branch
 
