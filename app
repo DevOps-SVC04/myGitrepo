@@ -9,3 +9,5 @@ This line is added in conflict branch
 first commit
 
 second commit
+
+third commit
