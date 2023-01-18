@@ -7,3 +7,5 @@ This line is added in UI
 This line is added in conflict branch
 
 first commit
+
+second commit
